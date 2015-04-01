@@ -1,0 +1,6 @@
+{application,rabbit_common,
+             [{description,"RabbitMQ Common Libraries"},
+              {vsn,"3.5.0"},
+              {registered,[]},
+              {env,[]},
+              {applications,[kernel,stdlib]}]}.
